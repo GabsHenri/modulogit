@@ -1,4 +1,4 @@
-p {
+p, h1, h4 {
   color: black; 
   background-color: aqua; 
   font-size: 50px;
