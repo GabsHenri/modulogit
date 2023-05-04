@@ -28,9 +28,7 @@ div .campo {
   margin-top: 50px;
   width: 350px;
   height: 50px;
-  display: inline-block
-  flex-direction: row;
-  background-color: aliceblue;
+  display: inline-block;
 }
 input {
   width: 350px;
